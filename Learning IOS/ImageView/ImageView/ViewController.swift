@@ -11,6 +11,7 @@ class ViewController: UIViewController {
     var isZoom = false
     var imgOn: UIImage?
     var imgOff: UIImage?
+    //주석추가
     
     @IBOutlet var imgView: UIImageView!
     @IBOutlet var btnResize: UIButton!
